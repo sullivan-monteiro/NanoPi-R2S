@@ -1,4 +1,4 @@
-Build
+Build now
 ## 20200718
 * Kernel 5.4.50
 * Clash 更新到 1.0.0
